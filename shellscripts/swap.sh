@@ -10,4 +10,4 @@ num2=`expr $num1 - $num2`
 num1=`expr $num1 - $num2`
 
 echo "Num1=$num1"
-echo "Num1=$num2"
+echo "Num2=$num2"
